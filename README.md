@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-I am Oguzhan Furkan ASLAN from Turkey. I am a data analyst who is always eager to learn new things.
+I am Oguzhan Furkan ASLAN. I am a data analyst who is always eager to learn new things.
 I have experience in data-driven solutions in different projects, i share some of them on my github and tableau public accounts.
 
-As a Data Analyst, i'm able to transform raw data into meaningful insight using SQL, Python (with wellknown
-libraries NumPy, Pandas, SciPy, Seaborn, and Matplotlib), Tableau, and other different tools for various platforms in Agile project environment.
+As a Data Analyst, i'm able to scrap and transform raw data into meaningful insight using Python (with wellknown
+libraries NumPy, Pandas, SciPy, Seaborn, and Matplotlib), SQL, Tableau, and other different tools for various platforms in Agile project environment.
 
 <br/>
 
