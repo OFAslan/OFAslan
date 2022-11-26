@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Oguzhan Furkan ASLAN. I am a data analyst who is always eager to learn new things.
+This is Oguzhan Furkan ASLAN. I am a data analyst who is always eager to learn new things.
 I have experience in data-driven solutions in different projects, i share some of them on my github and tableau public accounts.
 
 As a Data Analyst, i'm able to scrap and transform raw data into meaningful insight using Python (with wellknown
