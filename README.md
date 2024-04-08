@@ -35,7 +35,7 @@ libraries NumPy, Pandas, SciPy, Seaborn, and Matplotlib), SQL, Tableau, and othe
 
 <p align="left">
 <a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="120"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="MSSQL" height="25"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="25"/> </a>
 </p>
 
 <div align="left"> <h2 align="left"> 📚 PYTHON LIBRARIES </h2> </div>
